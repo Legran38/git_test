@@ -1,0 +1,2 @@
+This text is a test to see if Git works in the Terminal.
+ If it works the git status command should show, that this and README.md can both be added to the stage area.
